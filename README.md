@@ -98,23 +98,21 @@ Working toward faster detection, smarter prioritization, and more efficient defe
 ![Detection](https://img.shields.io/badge/Detection-7C3AED?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6C47FF?style=flat-square)
 
-### AI & Engineering
+### AI & Tooling
 
 ![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🚨 `projects --featured`
 
-| Project | What I'm building around |
+| Project | Focus |
 |:---|:---|
 | 🧠 **[AI-Driven SOC](https://github.com/Iman-gholami/AI-Driven_Soc)** | AI × Security Operations |
 | 📚 **[RAG SOC Rules](https://github.com/Iman-gholami/Create_rag_soc_rules-)** | RAG × Security Rules |
 | 🤖 **[Telegram Bot](https://github.com/Iman-gholami/telegram-bot-nodejs)** | Automation & Bots |
 | 🐳 **[Node.js Docker App](https://github.com/Iman-gholami/nodejs-dockerize-app)** | Containers & Tooling |
-| 🔌 **[API Blog Express](https://github.com/Iman-gholami/api-blog-express)** | API & Service Engineering |
 
 ## 🔥 `automation --philosophy`
 
