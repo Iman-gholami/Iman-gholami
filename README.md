@@ -1,101 +1,168 @@
 <div align="center">
 
-# Iman Gholami 👾
+# 👾 IMAN GHOLAMI
 
-### Cybersecurity Engineer | Security Automation | AI Security
+### `CYBERSECURITY • SECURITY AUTOMATION • AI × SECURITY`
 
-> **I build security systems that detect, automate, and respond.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Security+Automation+Engineer;Designing+Defensive+Security+Systems;AI-Powered+SOC+%26+Security+Tooling;Automate+the+boring.+Harden+the+important." alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Iman--gholami-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iman-gholami)
-[![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-00ff9c?style=for-the-badge&logo=hackthebox&logoColor=black)](#)
-[![Security Automation](https://img.shields.io/badge/SECURITY_AUTOMATION-111827?style=for-the-badge&logo=dependabot&logoColor=00ff9c)](#)
+<br>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iman-gholami)
+[![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=000000)](#)
+[![Security Automation](https://img.shields.io/badge/SECURITY_AUTOMATION-111827?style=for-the-badge&logo=dependabot&logoColor=00FF9C)](#)
 [![AI Security](https://img.shields.io/badge/AI_SECURITY-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🕶️ Who Am I?
-
-I'm a **cybersecurity-focused engineer** interested in designing security solutions, automating security operations, and combining AI with defensive security workflows.
-
-I like taking a security problem that requires repetitive manual work and turning it into a **tool, workflow, detection pipeline, or automated response**.
+## `> whoami`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                     SECURITY MINDSET                        │
-├─────────────────────────────────────────────────────────────┤
-│  🔍 Detect      ⚙️ Automate      🧠 Analyze      🛡️ Defend │
+│  USER        : iman-gholami                                 │
+│  ROLE        : Cybersecurity Engineer                       │
+│  SPECIALTY   : Security Automation                          │
+│  INTERESTS   : AI Security • SOC • Detection • RAG         │
+│  MISSION     : Turn security problems into automated tools  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## ⚡ Core Focus
+I build around **cybersecurity, defensive engineering, security automation, and AI-powered security workflows**.
 
-### 🛡️ Cybersecurity
-Security engineering, defensive tooling, SOC concepts, detection and response workflows.
+My interest is simple: **take repetitive, slow, or error-prone security work and turn it into something automated, intelligent, and reliable.**
+
+## ⚡ `core --focus`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ Security Engineering
+
+Designing practical defensive systems, security tooling, and workflows around detection and response.
+
+</td>
+<td width="50%">
 
 ### ⚙️ Security Automation
-Designing automated workflows that reduce repetitive security operations and improve response speed.
+
+Automating repetitive security operations, rules, analysis, and response workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🤖 AI × Security
-AI-driven security operations, RAG-based security knowledge, intelligent analysis, and security assistants.
 
-### 🔭 Security Tooling
-Building practical tools around monitoring, rules, automation, bots, and security workflows.
+Exploring AI-driven SOC workflows, intelligent analysis, security assistants, and RAG.
 
-## 🧰 Arsenal
+</td>
+<td width="50%">
 
-**Security & Operations**
+### 🔎 Detection & Response
+
+Working toward faster detection, smarter prioritization, and more efficient defensive operations.
+
+</td>
+</tr>
+</table>
+
+## 🧠 `security --mindset`
+
+```text
+             ┌──────────────┐
+             │   SECURITY   │
+             └──────┬───────┘
+                    │
+        ┌───────────┼───────────┐
+        ▼           ▼           ▼
+     DETECT      ANALYZE     AUTOMATE
+        │           │           │
+        └───────────┼───────────┘
+                    ▼
+              RESPOND / DEFEND
+```
+
+> **Don't just detect the problem. Build the system that handles it.**
+
+## 🧰 `arsenal`
+
+### Security
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=flat-square&logo=owasp&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC-0f172a?style=flat-square&logo=shield&logoColor=00ff9c)
-![Security Automation](https://img.shields.io/badge/Security%20Automation-0f766e?style=flat-square&logo=dependabot&logoColor=white)
+![SOC](https://img.shields.io/badge/SOC-0F172A?style=flat-square&logo=shield&logoColor=00FF9C)
+![Security Automation](https://img.shields.io/badge/Security%20Automation-0F766E?style=flat-square&logo=dependabot&logoColor=white)
+![Detection](https://img.shields.io/badge/Detection-7C3AED?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6C47FF?style=flat-square)
+
+### AI & Engineering
+
 ![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Engineering & Tooling**
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🚨 Security Projects
+## 🚨 `projects --featured`
 
-<div align="center">
+| Project | What I'm building around |
+|:---|:---|
+| 🧠 **[AI-Driven SOC](https://github.com/Iman-gholami/AI-Driven_Soc)** | AI × Security Operations |
+| 📚 **[RAG SOC Rules](https://github.com/Iman-gholami/Create_rag_soc_rules-)** | RAG × Security Rules |
+| 🤖 **[Telegram Bot](https://github.com/Iman-gholami/telegram-bot-nodejs)** | Automation & Bots |
+| 🐳 **[Node.js Docker App](https://github.com/Iman-gholami/nodejs-dockerize-app)** | Containers & Tooling |
+| 🔌 **[API Blog Express](https://github.com/Iman-gholami/api-blog-express)** | API & Service Engineering |
 
-| 🔥 Project | 🎯 Focus |
-|---|---|
-| **[AI-Driven SOC](https://github.com/Iman-gholami/AI-Driven_Soc)** | AI × Security Operations |
-| **[RAG SOC Rules](https://github.com/Iman-gholami/Create_rag_soc_rules-)** | RAG × Security Rules |
-| **[Telegram Bot](https://github.com/Iman-gholami/telegram-bot-nodejs)** | Automation & Bots |
-| **[Node.js Docker App](https://github.com/Iman-gholami/nodejs-dockerize-app)** | Containers & Tooling |
-
-</div>
-
-## 🧠 Security Philosophy
+## 🔥 `automation --philosophy`
 
 ```text
-Manual work        →  Automation
-Raw data            →  Intelligence
-Alert overload      →  Prioritization
-Repetitive actions  →  Workflows
-Slow response       →  Automated response
+┌─────────────────────┐
+│  MANUAL OPERATION   │
+└──────────┬──────────┘
+           │
+           ▼
+     [ IDENTIFY ]
+           │
+           ▼
+      [ DESIGN ]
+           │
+           ▼
+     [ AUTOMATE ]
+           │
+           ▼
+      [ MONITOR ]
+           │
+           ▼
+       [ IMPROVE ]
+           │
+           └──────────────► ∞
 ```
 
-> **The goal isn't just to find threats.**
-> **The goal is to build systems that make finding and responding to them faster.**
+**Less repetition. Faster response. Better security.**
 
-## 🔥 Currently Exploring
+## 🛰️ `currently --exploring`
 
-- 🧠 AI-powered SOC workflows
-- ⚙️ Automated security operations
-- 🔎 Detection & response engineering
-- 📚 RAG for security knowledge and rules
-- 🤖 Intelligent security assistants
-- 🛡️ Defensive security tooling
+```yaml
+security:
+  - security_automation
+  - SOC_workflows
+  - detection_and_response
+  - defensive_security_tooling
 
-## 📊 GitHub
+ai:
+  - AI_driven_security
+  - RAG_for_security
+  - intelligent_security_assistants
+
+goal:
+  - automate_security_operations
+  - build_practical_defensive_systems
+```
+
+## 📊 `system --stats`
 
 <div align="center">
 
@@ -112,10 +179,10 @@ Slow response       →  Automated response
 <div align="center">
 
 ```text
-[ THINK ] → [ DETECT ] → [ AUTOMATE ] → [ DEFEND ]
+[ THINK ] → [ DETECT ] → [ ANALYZE ] → [ AUTOMATE ] → [ DEFEND ]
 ```
 
-### 🛡️ Secure by design. Automated by default. ⚡
+### 🛡️ SECURE BY DESIGN · AUTOMATED BY DEFAULT ⚡
 
 `Build • Secure • Automate • Evolve`
 
